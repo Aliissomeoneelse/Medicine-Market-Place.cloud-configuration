@@ -10,3 +10,5 @@ spring:
           username: Aliissomeeoneelse
           password: ${git.password}
         default-label: dev/Alisher
+
+#todo: http://localhost:8888/user-service-dev.yml
